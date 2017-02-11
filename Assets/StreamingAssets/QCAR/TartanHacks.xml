@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Portrait-of-Dora-Maar-pablo-picaso" size="1.000000 1.197101" />
+    <ImageTarget name="the-scream-edvard-munch-poster" size="1.000000 1.274286" />
+    <ImageTarget name="facebook2" size="1.000000 0.373297" />
+    <ImageTarget name="Portrait-de-LArtiste-Sans-Barbe-van-gogh-painting" size="1.000000 1.255403" />
+    <ImageTarget name="mona-lisa" size="1.000000 1.508816" />
+    <ImageTarget name="A-Sunday-Afternoon-on-the-Island-of-La-Grande-Jatte-painting2" size="1.000000 0.673347" />
+    <ImageTarget name="facebook" size="1.000000 1.000000" />
+    <ImageTarget name="the_starry_night-t2" size="1.000000 0.618143" />
+    <ImageTarget name="Meisje_met_de_parel" size="1.000000 1.170898" />
     <ImageTarget name="carnegie" size="1.000000 1.333333" />
     <ImageTarget name="ScottyDog_Sticker" size="1.000000 1.144068" />
   </Tracking>
